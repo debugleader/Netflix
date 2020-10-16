@@ -1,0 +1,2 @@
+.nav{position:fixed;top:0;display:-webkit-box;display:-ms-flexbox;display:flex;padding:25px;height:30px;z-index:1;width:100%;-webkit-transition-timing-function:ease-in;transition-timing-function:ease-in;-webkit-transition:all 0.4s;transition:all 0.4s}.nav__logo{width:110px;-o-object-fit:contain;object-fit:contain}.nav__black{background-color:#111}
+/*# sourceMappingURL=Nav.css.map */
