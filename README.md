@@ -1,8 +1,8 @@
-# Netflix
+# Netflix 🎥
 
 **Netflix** is a _streaming_ _service_ that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.
 
-# How can I try it?
+# How can I try it? 🤔
 
 ### Use the web hosted version.
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Why Netflix?
+# Why Netflix? 🎉
 
 There are too many **competitors** in the market like _Amazon_, _Hulu_, the upcoming streaming service from Walt Disney, as well as some of the cable channels' subscription services but still _Netflix_ is the best tv and movies streaming service.
 
