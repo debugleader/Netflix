@@ -27,3 +27,7 @@ There are too many **competitors** in the market like _Amazon_, _Hulu_, the upco
 > [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://debugleader.github.io)
 
 ---
+
+> [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://debugleader.netlify.app)
+
+---
